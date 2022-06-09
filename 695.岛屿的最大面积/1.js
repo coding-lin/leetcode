@@ -19,7 +19,7 @@
  * @param {number[][]} grid
  * @param {number} i
  * @param {number} j
- * @return {number} area
+ * @return {number}
  */
 function dfs(grid, i, j) {
   if (i < 0 || j < 0 || i >= grid.length || j >= grid[i].length || grid[i][j] === 0) return 0;
