@@ -7,7 +7,7 @@
     2. 贪心 分治 动态规划
             小灰的漫画算法
             
-## 力扣个人主页：https://leetcode.cn/u/gemini-lin/
+## 力扣个人主页：https://leetcode.cn/u/codinglin/
 
 ### TS 篇
 
